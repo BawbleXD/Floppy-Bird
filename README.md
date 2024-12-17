@@ -53,18 +53,21 @@ Flappy Bird is a simple, fun, and addictive game where your goal is to navigate 
 ## 🛠️ Contributing
 Im welcome contributions to improve the game! Follow these steps:
 
-1. **Fork** the repository.  
-2. Create a new branch for your feature/bugfix:  
-   ```bash
-   git checkout -b feature/your-feature-name
-3. **Commit your changes:**
-   ```bash
-   git commit -m "Add: Your feature description"
+Fork the repository.
+Create a new branch for your feature/bugfix:
+bash
+Copy code
+git checkout -b feature/your-feature-name
+Commit your changes:
+bash
+Copy code
+git commit -m "Add: Your feature description"
 Push your branch and submit a pull request:
 bash
 Copy code
 git push origin feature/your-feature-name
+
 ## 👤 Author
 
-**Name:** Your Name  
-**GitHub:** [@your-username](https://github.com/your-username)
+**Name:** Rexell Kurniawan
+**GitHub:** [@BawbleXD](https://github.com/BawbleXD)
