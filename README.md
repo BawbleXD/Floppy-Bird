@@ -31,3 +31,40 @@ Flappy Bird is a simple, fun, and addictive game where your goal is to navigate 
    ```bash
    git clone https://github.com/your-username/FlappyBird-Unity.git
    cd FlappyBird-Unity
+   ## Open the Project in Unity
+2. **Launch Unity Hub.**  
+3. Click **Open Project** and navigate to the cloned folder.
+
+## Play the Game
+- Press the **Play button (▶️)** in Unity Editor to test the game.
+
+---
+
+## 🕹️ How to Play
+### Controls:
+- Press the **Spacebar** (PC) to make the bird "flap" and stay in the air.
+
+### Goal:
+- Navigate through the pipes and achieve the **highest score** possible.  
+- Avoid touching the pipes or falling to the ground.
+
+---
+
+## 🛠️ Contributing
+Im welcome contributions to improve the game! Follow these steps:
+
+1. **Fork** the repository.  
+2. Create a new branch for your feature/bugfix:  
+   ```bash
+   git checkout -b feature/your-feature-name
+3. **Commit your changes:**
+   ```bash
+   git commit -m "Add: Your feature description"
+Push your branch and submit a pull request:
+bash
+Copy code
+git push origin feature/your-feature-name
+## 👤 Author
+
+**Name:** Your Name  
+**GitHub:** [@your-username](https://github.com/your-username)
